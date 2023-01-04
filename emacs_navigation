@@ -16,3 +16,5 @@ open if you intend to use a firewall.The first thing that we need to do is make 
 That is all there is to creating a basic distributed glusterFS volume! You can now create files on the volume. As files are created, they are distributed between the bricks on the server. 
 
 By examining the directory or storage device on each server you will see different files due to the distribution. Viewing the actual volume through the mount point will provide access to all the files distributed across your cluster.
+
+Bottom of the buffer
