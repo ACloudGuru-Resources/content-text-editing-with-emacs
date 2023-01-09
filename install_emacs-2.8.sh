@@ -12,3 +12,4 @@ make -j2
 make install -j2
 
 /usr/bin/update-alternatives --install /usr/bin/emacs emacs /usr/local/bin/emacs 99
+touch /tmp/emacs_done
