@@ -8,9 +8,10 @@ else
 fi
 
 #Download Emacs 28.1 source package
-wget https://ftp.gnu.org/gnu/emacs/emacs-28.1.tar.xz
+wget https://ftp.gnu.org/gnu/emacs/emacs-28.1.tar.xz -P /root/
 
 #Untar the source and run the build and install
+cd /root/
 tar xvf emacs-28.1.tar.xz
 cd emacs-28.1
 ./configure
