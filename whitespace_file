@@ -1,0 +1,23 @@
+
+
+
+a  b  c d 	e	f  g  h
+
+  	  	<--mix space and tabs
+
+	<--tab and trailing whitespace       
+
+
+
+      The first thing that we need to do is make sure that the systems can communicate with each other. This Hello Guru can be done by adding their name and IPs to /etc/hosts (on each server). Another (and preferred way) would be    	
+
+
+There is a blank line below
+
+
+
+
+
+
+
+
