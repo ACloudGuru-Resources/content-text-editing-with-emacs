@@ -1,0 +1,23 @@
+It looks like we have successfully opened this file.
+Time to search and replace
+
+QUERY REGEX SEARCH AND REPLACE: (C-M-% or M-x query-replace-regex)
+
+Gurus
+guriP
+gURuss
+GuRuto
+
+SEARCH AND REPLACE: (M-x replace-string)
+
+Hello
+HelLo
+hELLo
+
+
+UPPERCASE A REGION: (C-x C-u)
+LOWERCASE A REGION: (C-x C-l)
+CAPITALIZE A REGION: (M-x upcase-initials-region)
+CAPITALIZE BY WORD: (M-c, M-u, and M-l)
+
+Looking For A DISTRIBUTED STORAGE solution that can scale into the petabytes range? then it’s worth your time to learn about glusterfs. in this article, i explain what glusterfs is, how to set up a simple three-note glusterfs cluster, and share some links to further learning resources.
