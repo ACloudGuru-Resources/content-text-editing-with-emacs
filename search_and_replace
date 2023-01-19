@@ -1,7 +1,7 @@
 It looks like we have successfully opened this file.
 Time to search and replace
 
-QUERY REGEX SEARCH AND REPLACE: (C-M-% or M-x query-replace-regex)
+QUERY REGEX SEARCH AND REPLACE: (C-M-% or M-x query-replace-regexp)
 
 Gurus
 guriP
