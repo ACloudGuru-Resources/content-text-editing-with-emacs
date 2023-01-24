@@ -1,0 +1,26 @@
+1.) Without using copy/paste, insert the output of uptime in the space between the lines below.
+-----------------
+
+-----------------
+
+
+2.) Replace the code section between the lines with its output from running
+it using region piping to 'bash -'.
+------------------
+COUNT=1
+while [ $COUNT -le 5 ]; do
+	echo "the current count is $COUNT"
+	let COUNT=COUNT+1
+done
+-----------------
+
+
+3.) Run '/tmp/loop.sh' in a synchrounous method and insert the output between the lines below
+the script runs fors ~5 seconds.
+-----------------
+
+-----------------
+
+4.) Start Emacs Shell Mode and run `ps -ef | head -10. Using the Emacs kill/yank feature
+put the output into a new buffer named /tmp/ps-output.txt
+
