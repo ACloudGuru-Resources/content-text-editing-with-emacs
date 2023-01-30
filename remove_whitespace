@@ -1,0 +1,24 @@
+
+
+
+
+  	  	Just a random line to get started with.		
+
+	Oh no, I am surrounded by various amounts of whitespace       
+
+
+
+      The first thing that we need to do is make sure that the systems can communicate with each other. This Hello Guru can be done by adding their name and IPs to /etc/hosts (on each server). Another (and preferred way) would be    	
+
+
+There is a blank line below
+
+
+For the purposes of this article, I will be using Ubuntu 20.04 as the operating system. However, you can use a different Linux distribution if you choose. The main difference will only be in how you install the software packages (e.g. yum, dnf, or apt).
+
+ I will be using three servers with the following IP addresses and hostnames.  
+ The following steps should be completed on each server, and also using sudo or the root user. 
+
+
+
+
