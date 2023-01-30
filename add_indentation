@@ -1,0 +1,25 @@
+Hello students, in this section of the lesson we will be going over adding indentation.
+Follow the instructions below.
+
+1.) For the sentences below add the required indentation as specified by the line itself.
+---------------------
+Add 3 tabs to the start of this line.
+Add 2 tabs and a space to the start of this line.
+Add 1 tab to the start of this line.
+Add 4 tabs to the start of this line.
+
+
+
+2.)Mark the text between "do" and "done" below and add indentation to the region.
+   Insert a single tab and two spaces while maintaining any existing indentation..
+---------------------
+while [ condition ] #I'm still thinking about this one
+do
+  something_cool1      #Going to put really cool code here
+  something_cool2	#Also here too
+    if (crash-condition)
+    then
+      break       	   #Houston, we have a problem.
+    fi
+  something_cool3          #Ran out of comments
+done
